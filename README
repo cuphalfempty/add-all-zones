@@ -1,0 +1,16 @@
+This plugin adds 2 options into Opencart.
+1. Add 'add all zones' from selected country feature into admin/localization/geo_zone.
+1. Add 'add all countries' feature into admin/localization/geo_zone.
+
+INSTALL
+=======
+Copy files from repository into opencart's folder. This will replace original files.
+
+If you prefer not to replace files, copy and paste additional code into your files. Additional code is clearly marked.
+
+IMPORTANT
+=========
+This plugin was tested in Opencart 1.4.9.4 and Firefox 3.6.
+
+Be prepare that adding all countries will take long time.
+
